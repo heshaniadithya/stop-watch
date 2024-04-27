@@ -38,7 +38,7 @@ function App() {
         className='border rounded-lg py-1 px-3'
         onClick={()=>{setRunning(true)}}
         >
-          Start
+           Start
           </button>
         )
         }
